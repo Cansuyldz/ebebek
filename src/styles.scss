@@ -1,0 +1,639 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+@font-face {
+  font-family:icons;
+
+  font-display:swap
+}
+i[class*=" icon-"]:before,
+i[class^=icon-]:before {
+  font-family:icons!important;
+  font-style:normal;
+  font-weight:400!important;
+  font-variant:normal;
+  text-transform:none;
+  line-height:1;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale
+}
+.icon-accordion-down:before {
+  content:"\f101"
+}
+.icon-account-card:before {
+  content:"\f102"
+}
+.icon-account-favorite:before {
+  content:"\f103"
+}
+.icon-add-photo:before {
+  content:"\f104"
+}
+.icon-add:before {
+  content:"\f105"
+}
+.icon-alert-triangle:before {
+  content:"\f106"
+}
+.icon-apple-black:before {
+  content:"\f107"
+}
+.icon-apple:before {
+  content:"\f108"
+}
+.icon-ar-icon:before {
+  content:"\f109"
+}
+.icon-arac:before {
+  content:"\f10a"
+}
+.icon-arrow-bottom:before {
+  content:"\f10b"
+}
+.icon-arrow-down-green:before {
+  content:"\f10c"
+}
+.icon-arrow-down-menu:before {
+  content:"\f10d"
+}
+.icon-arrow-down-orange:before {
+  content:"\f10e"
+}
+.icon-arrow-right-big:before {
+  content:"\f10f"
+}
+.icon-arrow-right-orange:before {
+  content:"\f110"
+}
+.icon-arrow-right:before {
+  content:"\f111"
+}
+.icon-arrow-up-menu:before {
+  content:"\f112"
+}
+.icon-arrow-up:before {
+  content:"\f113"
+}
+.icon-baby-blue:before {
+  content:"\f114"
+}
+.icon-baby-menu:before {
+  content:"\f115"
+}
+.icon-baby-white:before {
+  content:"\f116"
+}
+.icon-baby:before {
+  content:"\f117"
+}
+.icon-ban:before {
+  content:"\f118"
+}
+.icon-bank-vault:before {
+  content:"\f119"
+}
+.icon-bath-white:before {
+  content:"\f11a"
+}
+.icon-bath:before {
+  content:"\f11b"
+}
+.icon-bell-1:before {
+  content:"\f11c"
+}
+.icon-bell-2:before {
+  content:"\f11d"
+}
+.icon-bell:before {
+  content:"\f11e"
+}
+.icon-besik-blue:before {
+  content:"\f11f"
+}
+.icon-besik-menu:before {
+  content:"\f120"
+}
+.icon-besik-white:before {
+  content:"\f121"
+}
+.icon-besik:before {
+  content:"\f122"
+}
+.icon-bez-2:before {
+  content:"\f123"
+}
+.icon-bez-blue:before {
+  content:"\f124"
+}
+.icon-bez-menu:before {
+  content:"\f125"
+}
+.icon-bez-white:before {
+  content:"\f126"
+}
+.icon-bez:before {
+  content:"\f127"
+}
+.icon-box:before {
+  content:"\f128"
+}
+.icon-brand:before {
+  content:"\f129"
+}
+.icon-breadcrumb:before {
+  content:"\f12a"
+}
+.icon-calendar:before {
+  content:"\f12b"
+}
+.icon-cargo-box:before {
+  content:"\f12c"
+}
+.icon-cargo-delivery:before {
+  content:"\f12d"
+}
+.icon-cargo-time:before {
+  content:"\f12e"
+}
+.icon-cargo-truck:before {
+  content:"\f12f"
+}
+.icon-cargo:before {
+  content:"\f130"
+}
+.icon-check-circle:before {
+  content:"\f131"
+}
+.icon-check:before {
+  content:"\f132"
+}
+.icon-chevron-right:before {
+  content:"\f133"
+}
+.icon-child-head:before {
+  content:"\f134"
+}
+.icon-clock-2:before {
+  content:"\f135"
+}
+.icon-clock:before {
+  content:"\f136"
+}
+.icon-close-dropdown-orange:before {
+  content:"\f137"
+}
+.icon-close-modal:before {
+  content:"\f138"
+}
+.icon-close-orange:before {
+  content:"\f139"
+}
+.icon-clothes-blue:before {
+  content:"\f13a"
+}
+.icon-clothes-menu:before {
+  content:"\f13b"
+}
+.icon-clothes-white:before {
+  content:"\f13c"
+}
+.icon-clothes:before {
+  content:"\f13d";
+}
+.icon-comment-icon:before {
+  content:"\f13e"
+}
+.icon-comment:before {
+  content:"\f13f"
+}
+.icon-comments:before {
+  content:"\f140"
+}
+.icon-copy-icon:before {
+  content:"\f141"
+}
+.icon-copy:before {
+  content:"\f142"
+}
+.icon-coupon-icon:before {
+  content:"\f143"
+}
+.icon-decrease:before {
+  content:"\f144"
+}
+.icon-delivery-3:before {
+  content:"\f145"
+}
+.icon-discount-icon:before {
+  content:"\f146"
+}
+.icon-document:before {
+  content:"\f147"
+}
+.icon-documentation:before {
+  content:"\f148"
+}
+.icon-download:before {
+  content:"\f149"
+}
+.icon-dropup:before {
+  content:"\f14a"
+}
+.icon-duck-blue:before {
+  content:"\f14b"
+}
+.icon-duck-menu:before {
+  content:"\f14c"
+}
+.icon-edit-icon:before {
+  content:"\f14d"
+}
+.icon-email:before {
+  content:"\f14e"
+}
+.icon-eye:before {
+  content:"\f14f"
+}
+.icon-facebook-filled:before {
+  content:"\f150"
+}
+.icon-facebook:before {
+  content:"\f151"
+}
+.icon-favorite-gray:before {
+  content:"\f152"
+}
+.icon-favorite-icon:before {
+  content:"\f153"
+}
+.icon-favorite:before {
+  content:"\f154"
+}
+.icon-file:before {
+  content:"\f155"
+}
+.icon-filter:before {
+  content:"\f156"
+}
+.icon-food-blue:before {
+  content:"\f157"
+}
+.icon-food-menu:before {
+  content:"\f158"
+}
+.icon-food-white:before {
+  content:"\f159"
+}
+.icon-food:before {
+  content:"\f15a"
+}
+.icon-gift:before {
+  content:"\f15b"
+}
+.icon-google:before {
+  content:"\f15c"
+}
+.icon-headset:before {
+  content:"\f15d"
+}
+.icon-heart-fill-big:before {
+  content:"\f15e"
+}
+.icon-heart-fill:before {
+  content:"\f15f"
+}
+.icon-heart-white:before {
+  content:"\f160"
+}
+.icon-heart:before {
+  content:"\f161"
+}
+.icon-help-orange:before {
+  content:"\f162"
+}
+.icon-help:before {
+  content:"\f163"
+}
+.icon-home:before {
+  content:"\f164"
+}
+.icon-huawei:before {
+  content:"\f165"
+}
+.icon-i:before {
+  content:"\f166"
+}
+.icon-icon-navigation-arrow-orange:before {
+  content:"\f167"
+}
+.icon-icon-navigation-arrow:before {
+  content:"\f168"
+}
+.icon-icons-trash:before {
+  content:"\f169"
+}
+.icon-info-blue:before {
+  content:"\f16a"
+}
+.icon-info-orange:before {
+  content:"\f16b"
+}
+.icon-info:before {
+  content:"\f16c"
+}
+.icon-instagram:before {
+  content:"\f16d"
+}
+.icon-interactive:before {
+  content:"\f16e"
+}
+.icon-kategoriler-icon-open:before {
+  content:"\f16f"
+}
+.icon-kategoriler-icon:before {
+  content:"\f170"
+}
+.icon-label:before {
+  content:"\f171"
+}
+.icon-like:before {
+  content:"\f172"
+}
+.icon-link-orange:before {
+  content:"\f173"
+}
+.icon-link:before {
+  content:"\f174"
+}
+.icon-linkedin:before {
+  content:"\f175"
+}
+.icon-location-drop:before {
+  content:"\f176"
+}
+.icon-location-icon:before {
+  content:"\f177"
+}
+.icon-location-searching:before {
+  content:"\f178"
+}
+.icon-location:before {
+  content:"\f179"
+}
+.icon-lock-message:before {
+  content:"\f17a"
+}
+.icon-lock:before {
+  content:"\f17b"
+}
+.icon-mail:before {
+  content:"\f17c"
+}
+.icon-mask:before {
+  content:"\f17d"
+}
+.icon-menu-dots:before {
+  content:"\f17e"
+}
+.icon-message-icon:before {
+  content:"\f17f"
+}
+.icon-message:before {
+  content:"\f180"
+}
+.icon-minus-orange:before {
+  content:"\f181"
+}
+.icon-minus:before {
+  content:"\f182"
+}
+.icon-my-account:before {
+  content:"\f183"
+}
+.icon-my-order-icon:before {
+  content:"\f184"
+}
+.icon-my-order:before {
+  content:"\f185"
+}
+.icon-navigation-arrow-forward:before {
+  content:"\f186"
+}
+.icon-next-white:before {
+  content:"\f187"
+}
+.icon-next:before {
+  content:"\f188"
+}
+.icon-no-coupon:before {
+  content:"\f189"
+}
+.icon-no-favorite:before {
+  content:"\f18a"
+}
+.icon-no-mail:before {
+  content:"\f18b"
+}
+.icon-not-found:before {
+  content:"\f18c"
+}
+.icon-notification-gray:before {
+  content:"\f18d"
+}
+.icon-notification:before {
+  content:"\f18e"
+}
+.icon-order:before {
+  content:"\f18f"
+}
+.icon-palette:before {
+  content:"\f190"
+}
+.icon-phone:before {
+  content:"\f191"
+}
+.icon-play:before {
+  content:"\f192"
+}
+.icon-plus:before {
+  content:"\f193"
+}
+.icon-prev:before {
+  content:"\f194"
+}
+.icon-protect:before {
+  content:"\f195"
+}
+.icon-receipt:before {
+  content:"\f196"
+}
+.icon-rectangle-2:before {
+  content:"\f197"
+}
+.icon-rectangle:before {
+  content:"\f198"
+}
+.icon-refresh:before {
+  content:"\f199"
+}
+.icon-saved-card-icon:before {
+  content:"\f19a"
+}
+.icon-search-back-orange:before {
+  content:"\f19b"
+}
+.icon-search-back:before {
+  content:"\f19c"
+}
+.icon-search-orange:before {
+  content:"\f19d"
+}
+.icon-search:before {
+  content:"\f19e"
+}
+.icon-security-banner:before {
+  content:"\f19f"
+}
+.icon-security-blue:before {
+  content:"\f1a0"
+}
+.icon-security-menu:before {
+  content:"\f1a1"
+}
+.icon-security-white:before {
+  content:"\f1a2"
+}
+.icon-security:before {
+  content:"\f1a3"
+}
+.icon-see-all:before {
+  content:"\f1a4"
+}
+.icon-selectbox-icon:before {
+  content:"\f1a5"
+}
+.icon-send-message:before {
+  content:"\f1a6"
+}
+.icon-server:before {
+  content:"\f1a7"
+}
+.icon-settings:before {
+  content:"\f1a8"
+}
+.icon-shape:before {
+  content:"\f1a9"
+}
+.icon-share-list:before {
+  content:"\f1aa"
+}
+.icon-share:before {
+  content:"\f1ab"
+}
+.icon-shop-2:before {
+  content:"\f1ac"
+}
+.icon-shopping-cart-white:before {
+  content:"\f1ad"
+}
+.icon-shopping-cart:before {
+  content:"\f1ae"
+}
+.icon-sign-out:before {
+  content:"\f1af"
+}
+.icon-siparislerim-blue:before {
+  content:"\f1b0"
+}
+.icon-siparislerim:before {
+  content:"\f1b1"
+}
+.icon-smartphone:before {
+  content:"\f1b2"
+}
+.icon-sort:before {
+  content:"\f1b3"
+}
+.icon-square-icon:before {
+  content:"\f1b4"
+}
+.icon-star:before {
+  content:"\f1b5"
+}
+.icon-start:before {
+  content:"\f1b6"
+}
+.icon-stuff-blue:before {
+  content:"\f1b7"
+}
+.icon-stuff-menu:before {
+  content:"\f1b8"
+}
+.icon-stuff-white:before {
+  content:"\f1b9"
+}
+.icon-stuff:before {
+  content:"\f1ba"
+}
+.icon-time:before {
+  content:"\f1bb"
+}
+.icon-toys-blue:before {
+  content:"\f1bc"
+}
+.icon-toys-menu:before {
+  content:"\f1bd"
+}
+.icon-toys-white:before {
+  content:"\f1be"
+}
+.icon-toys:before {
+  content:"\f1bf"
+}
+.icon-trash:before {
+  content:"\f1c0"
+}
+.icon-truck-2:before {
+  content:"\f1c1"
+}
+.icon-truck-orange:before {
+  content:"\f1c2"
+}
+.icon-truck:before {
+  content:"\f1c3"
+}
+.icon-twitter-2:before {
+  content:"\f1c4"
+}
+.icon-twitter:before {
+  content:"\f1c5"
+}
+.icon-undo:before {
+  content:"\f1c6"
+}
+.icon-user-2:before {
+  content:"\f1c7"
+}
+.icon-user-gray:before {
+  content:"\f1c8"
+}
+.icon-user:before {
+  content:"\f1c9"
+}
+.icon-verification:before {
+  content:"\f1ca"
+}
+.icon-whatsapp-green:before {
+  content:"\f1cb"
+}
+.icon-whatsapp:before {
+  content:"\f1cc"
+}
+.icon-x:before {
+  content:"\f1cd"
+}

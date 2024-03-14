@@ -1,0 +1,291 @@
+{
+  "background": "https://cdn05.e-bebek.com/media/c/outlet-banner-0302.jpg",
+  "title": "Süper Fiyat",
+  "config": {
+    "slidesPerView": 4,
+    "navigation": true
+  },
+  "productSwiper":[
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/pratik-cam-bebek-rende_8699203310331_01.jpg",
+      "text": " baby plus -   Pratik Cam Bebek Rende ",
+      "price": "59,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/c_8682766463408_01.jpg",
+      "text": " HelloBaby -  Basic Kulaklı Kapüşonlu Mont Unisex ",
+      "price": "299,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette 199,99 TL!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/sudocrem-bebek-bakim-kremi-400-ml_5017007601326_01.jpg",
+      "text": " Sudocrem -  Bebek Bakım Kremi 400 gr ",
+      "price": "399,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/6li-geometrik-yumurta-esleme-oyunu_8681528386412_01.jpg",
+      "text": " Circle Toys -  6'lı Geometrik Yumurta Eşleme Oyunu ",
+      "price": "119,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/sleepy-natural-yenidogan-beden-bebek-bezi_8681212069270_01.jpg",
+      "text": " Sleepy -  Natural Yenidogan 1 Beden Bebek Bezi 2-5 kg 42 Adet ",
+      "price": "89,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/chicco-goody-plus-bebek-arabasi-grey_8058664152957_01.jpg",
+      "text": " Chicco -  Goody Plus Bebek Arabası ",
+      "price": "13.999,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2. Ürüne Sepette NET %60 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/camasir-suyu-tozu-500-gr_8680075435871_01.jpg",
+      "text": " baby me -  Toz Leke Çıkarıcı ",
+      "price": "69,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/b_8690536845057_01.jpg",
+      "text": " Molfix -  Bebek Bezi 4 Beden Maxi Ultra Fırsat Paketi 7- 14 kg 100 Adet ",
+      "price": "289,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/bolero-desenli-3lu-soket-corap-erkek-bebek_8682766624168_01.jpg",
+      "text": " Be Cool -  Bolero Desenli 3lü Soket Çorap Erkek Bebek ",
+      "price": "59,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2. Ürüne Sepette NET %50 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/uni-baby-bebek-temizleme-pamugu-60li_8690530047143_01.jpg",
+      "text": " Uni Baby -  Bebek Temizleme Pamuğu 60 Adet ",
+      "price": "49,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/bebek-dogal-camasir-sabunu-1500-ml_8681511095963_01.jpg",
+      "text": " Siveno -  Bebek Doğal Çamaşır Sabunu 1500 ml ",
+      "price": "189,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/motek-cok-amacli-tekerlekli-organizer-12-lt-tek-modul_8697414285714_01.jpg",
+      "text": " Motek -  Çok Amaçlı Tekerlekli Organizer 12 LT Tek Modül ",
+      "price": "149,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/b_8690536845064_01.jpg",
+      "text": " Molfix -  Bebek Bezi 5 Beden Junior Ultra Fırsat Paketi 11- 18 kg 78 Adet ",
+      "price": "289,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/baby-me-leke-cikarici-500-ml_8680075430173_01.jpg",
+      "text": " baby me -  Leke Çıkarıcı 500 ml ",
+      "price": "74,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2.Ürüne NET %30 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/keep-box-saklama-kutusu-14-lt_8681690621069_01.jpg",
+      "text": " Tuffex -  Keep Box Saklama Kutusu 14 lt ",
+      "price": "109,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/bebek-temizleme-pamugu-6x60-adet_8680075430234_01.jpg",
+      "text": " baby me -  Bebek Temizleme Pamuğu 6x60 adet ",
+      "price": "244,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/motek-cok-amacli-cift-bolmeli-80-litre-camasir-kirli-sepeti_8697414284830_01.jpg",
+      "text": " Motek -  Çok Amaçlı Çift Bölmeli 80 Litre Çamaşır - Kirli Sepeti ",
+      "price": "679,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/a_8682315112993_01.jpg",
+      "text": " Okutan Hobi -  Ahşap Oyun Evi ",
+      "price": "999,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/canyon-travel-sistem-bebek-arabasi-v2_8680075433747_01.jpg",
+      "text": " baby plus -  Canyon Travel Sistem Bebek Arabası V2 ",
+      "price": "5.999,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2. Ürüne Sepette NET %60 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/desenli-pipetli-bebek-alistirma-bardagi-300-ml_8710103781981_01.jpg",
+      "text": " Philips Avent -  Desenli Pipetli Alıştırma Bardağı 1+ Yaş 300 ml ",
+      "price": "469,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": " Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/babyjorn-balance-bliss-bebek-ana-kucagi-cotton-old-rose_7317680060143_01.jpg",
+      "text": " BabyBjörn -  Balance Bliss Ana Kucağı Cotton /Old Rose ",
+      "price": "7.699,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "2. Ürüne Sepette NET %60 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/ilk-kaydiragim_8690089031013_01.jpg",
+      "text": " baby toys -  ilk kaydırağım ",
+      "price": "699,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/d_6973370348697_01.jpg",
+      "text": " baby toys -   3 Tekerlekli Panda Bisiklet ",
+      "price": "5.995,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/fisher-price-egitici-kopekcik-yurutec_887961643367_01.jpg",
+      "text": " Fisher-Price -  Fisher Price Eğitici Köpekçik Yürüteç ",
+      "price": "1.699,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/lansinoh-manuel-tekli-silikon-gogus-pompasi_5060420233025_01.jpg",
+      "text": " Lansinoh -  Silikon Göğüs Pompası ",
+      "price": "379,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/tommee-tippee-gelismis-antikolik-biberon-260ml_5010415225696_01.jpg",
+      "text": " Tommee Tippee -  Gelişmiş Antikolik Biberon 260ml ",
+      "price": "439,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/lcd-dijital-cizim-tableti-85_8698540308643_01.jpg",
+      "text": " Let's Be Child -  Lcd Dijital Çizim Tableti ",
+      "price": "149,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/b_8684072989009_01.jpg",
+      "text": " Mochi -   Tekli Manuel Göğüs Pompası ",
+      "price": "399,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/yenidogan-islak-mendil-14x40-adet_8690530038738_01.jpg",
+      "text": " Uni Baby -  Yenidoğan Bebek Islak Mendil 14x40 Adet ",
+      "price": "329,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/5-parca-hamile-destek-seti_8682766017403_01.jpg",
+      "text": " baby mom -  5 Parça Hamile Destek Seti ",
+      "price": "729,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/mycey-super-vakumlu-tabak-pembe_8698694125653_01.jpg",
+      "text": " Mycey -   Süper Vakumlu Mama Tabağı 6+ Ay Pembe ",
+      "price": "199,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/natural-feeling-cam-biberon-150-ml-0-ay_8058664153459_01.jpg",
+      "text": " Chicco -  Natural Feeling Cam Biberon 150 ml 0+ Ay ",
+      "price": "419,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/mamajoo-kulplu-akitmaz-egitici-bardak-powder-green-160ml-anti-kolik-bardak-ucu_8697767124999_01.jpg",
+      "text": " Mamajoo -  Yumuşak Uçlu Kulplu Antikolik Alıştırma Bardağı 6+ Ay 160 ml Yeşil ",
+      "price": "249,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/a_5000394149656_01.jpg",
+      "text": " Duracell -  Alkalin AA Kalem Pil 6+2 Adet ",
+      "price": "179,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/300/300/media/p/philips-avent-essentials-tekli-gogus-pompasi_8710103998037_01.jpg",
+      "text": " Philips Avent -  Essential Tekli Elektrikli Göğüs Pompası ",
+      "price": "2.799,00 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": "Sepette NET %20 İndirim!"
+    }
+  ]
+
+}

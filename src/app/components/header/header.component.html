@@ -1,0 +1,87 @@
+<div class="eb-top-header">
+  <div class="topHeader">
+    <div class="topHeadermessage"> 700 TL ve Üzeri Alışverişlerde Kargo Bedava!</div>
+    <div class="help">
+      <mat-icon aria-hidden="false" aria-label="Example information icon" fontIcon="information"></mat-icon>
+      <div class="help-text">YARDIM</div>
+    </div>
+  </div>
+</div>
+<header>
+  <div class="header-main">
+    <div class="header-line-1">
+      <div class="col-xl-2 col-6 col-lg-2 col-md-6 header-line-1-logo order-1"><img
+        src="https://cdn.e-bebek.com/y.ebebek/9973673459742.svg" alt=""></div>
+      <div class="col-xl-6 col-lg-6 header-line-1-search order-3 order-lg-2 order-md-3 order-sm-3">
+        <input type="text" placeholder="Yeni Üyelere İlk Alışverişte Kargo Bedava">
+      </div>
+      <div class="col-xl-4 col-lg-3 col-6 header-line-1-account order-2 order-lg-3 order-md-2 order-sm-2">
+        <div class="account">
+          <div class="account-favorite">
+            <mat-icon aria-hidden="false" aria-label="Example favorite icon" fontIcon="favorite"></mat-icon>
+          </div>
+          <div class="account-user">
+            <mat-icon aria-hidden="false" aria-label="Example user icon" fontIcon="person"></mat-icon>
+            Giriş Yap / Üye Ol
+          </div>
+          <div class="account-basket">
+            <mat-icon aria-hidden="false" aria-label="Example basket icon" fontIcon="shop"></mat-icon>
+            Sepetim
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-line-2">
+      <div class="menu">
+        <ng-container *ngIf="headerMenu">
+          <ng-container *ngFor="let level1 of headerMenu">
+            <div class="level-1" (mouseenter)="menuOpen($event)" (mouseleave)="menuOpen($event)">
+              <div class="level-1-name {{level1.color}}">{{level1.name}}</div>
+              <div class="level-2" *ngIf="level1.children">
+                <div class="row">
+                  <ul class="col-lg-2 dropdown-content-menu-list">
+                    <li *ngFor="let level2 of level1.children;let i = index;" (mouseenter)="level2Open($event)" (mouseleave)="level2Open($event)" class="level-2-index_{{i}}">
+                      {{level2.name}}
+                      <i class="fas fa-{{level2.icon}}"></i>
+                    </li>
+                  </ul>
+                  <div class="col-lg-10 dropdown-content-menu-content">
+                    <div class="level-2-item level-2-item-index_{{i}}" *ngFor="let level2 of level1.children;let i = index;">
+                      <div class="level-3" *ngIf="level2.children">
+                        <ng-container *ngFor="let level3 of level2.children">
+                          <div class="level-3-image" *ngIf="level3.image">
+                            <ng-container *ngIf="level3.image">
+                              <img src="{{level3.image}}">
+                            </ng-container>
+                          </div>
+                          <div class="level-3-name" *ngIf="!level3.image">
+                            <ul>
+                              <li>{{level3.name}}
+                                <ul>
+                                  <li class="level-3-name-2" *ngFor="let level4 of level3.children">
+                                    {{level4.name}}
+                                  </li>
+                                </ul>
+                              </li>
+
+                            </ul>
+                          </div>
+                        </ng-container>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </ng-container>
+
+        </ng-container>
+      </div>
+      <div class="navigationBarsRightSlot">
+        <div class="shop orange"><img src="https://cdn05.e-bebek.com/media/c/siparisim-nerede-logo.png" alt="">SİPARİŞİM NERDE</div>
+        <div class="location orange"><img src="https://cdn05.e-bebek.com/media/c/enyakin-ebebek-logo.png" alt="">EN YAKIN EBEBEK</div>
+      </div>
+    </div>
+  </div>
+</header>
+

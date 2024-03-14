@@ -1,0 +1,38 @@
+<ng-container *ngIf="swipers$ | async as swipers">
+  <div class="swiper-banner">
+    <div class="container-fluid">
+      <ul>
+        <ng-container *ngIf="swipers.categories">
+          <li *ngFor="let category of swipers.categories;let i = index" [class]="i==0 ? 'active' : '' "
+              (click)="swiperChange(i,swiperElement)">
+            <button class="swiper-btn">{{category.name}}</button>
+          </li>
+        </ng-container>
+      </ul>
+    </div>
+    <div class="swiper-container" #swiperElement>
+      <ng-container *ngIf="swipers.swipers">
+        <div class="swiperElem {{i == 0 ? 'active' : ''}} {{'swiperLength-' +i}}"
+             *ngFor="let swiper of swipers.swipers;let i = index">
+          <swiper [config]="swiper.config" #swiperElem>
+            <ng-container *ngFor="let item of swiper.swiperItems">
+              <ng-template swiperSlide>
+                <img src="{{item.img}}" alt="">
+              </ng-template>
+            </ng-container>
+          </swiper>
+
+          <div class="swiper-images">
+            <div class="button-prev-custom" tabindex="0" role="button" (click)="slideChange(swiperElem, 'prev')"></div>
+            <ng-container *ngFor="let item of swiper.swiperItems; let i=index">
+              <div class="swiper-img-w" [class]="i==0 ? 'active' : '' ">
+                <img src="{{item.img}}" alt="" width="120" height="45">
+              </div>
+            </ng-container>
+            <div class="button-next-custom" tabindex="0" role="button" (click)="slideChange(swiperElem, 'next')"></div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</ng-container>

@@ -1,0 +1,120 @@
+.product {
+  color: #898989;
+  max-width: 1320px;
+  margin: 20px auto;
+  display: flex;
+
+  .content-banner {
+    img {
+      border-bottom-left-radius: 25px;
+    }
+  }
+
+  .product-box {
+    .product-item {
+      border: 1px solid #ededed;
+      border-radius: 10px;
+      width: 240px;
+      padding: 15px;
+
+      &:hover {
+        box-shadow: 0 0 0 0 #00000030, inset 0 0 0 3px #f28e00;
+      }
+
+      .product-img {
+        margin-bottom: 50px;
+
+        img {
+          width: 100%;
+
+        }
+      }
+
+      .product-text {
+        font-size: 13px;
+      }
+
+      .product-star-rating {
+        margin: 10px 0;
+
+        .fa-star {
+          color: #fed100;
+          padding-left: 7px;
+        }
+      }
+
+      .product-price {
+        margin: 20px 5px;
+        font-weight: 600;
+        font-size: 1.5rem;
+      }
+
+      .product-promo {
+        min-height: 70px;
+        &.active {
+          background: #eaf8f3;
+          color: #4bb788;
+          border-radius: 15px;
+          width: fit-content;
+          padding: 5.5px 9px 4.5px;
+          font-weight: bold;
+          font-size: 13px;
+          margin-bottom: 25px;
+        }
+      }
+
+      .product-shop-btn {
+        button {
+          margin-top: 30px;
+          outline: none;
+          border: none;
+          width: 100%;
+          padding: 15px 20px;
+          border-radius: 37.5px;
+          background-color: #fff7ec;
+          color: #f28e00;
+          font-size: 1.0rem;
+          font-weight: bold;
+        }
+
+      }
+    }
+  }
+}
+
+.swiper-button-next {
+  color: #f28e00;
+  background: #fef6eb;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #fff;
+
+  &::after {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+}
+
+.swiper-button-prev {
+  color: #f28e00;
+  background: #fef6eb;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #fff;
+
+  &::after {
+    font-size: 20px;
+    font-weight: 700;
+  }
+}
+
+

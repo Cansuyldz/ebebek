@@ -1,0 +1,35 @@
+
+<div class="banner-title">
+  <h2 class="title-primary">{{swiper.title}}</h2>
+</div>
+
+<div class="product">
+  <div class="content-banner">
+    <img src="{{swiper.background}}">
+  </div>
+  <swiper class="product-box" [config]="swiper.config">
+    <ng-container *ngFor="let item of swiper.productSwiper">
+      <ng-template swiperSlide>
+        <div class="product-item">
+          <div class="product-img">
+            <img src="{{item.image}}" width="100px">
+          </div>
+          <div class="product-text">{{item.text}}</div>
+          <div class="product-star-rating">
+            <i class="yellow fas fa-star"></i>
+            <i class="yellow fas fa-star"></i>
+            <i class="yellow fas fa-star"></i>
+            <i class="yellow fas fa-star"></i>
+            <i class="yellow fas fa-star"></i>
+            (2523)
+          </div>
+          <div class="product-price">{{item.price}}</div>
+          <div class="product-promo" [class.active]="item.promo">{{item.promo}}</div>
+          <div class="product-shop-btn">
+            <button>Sepete Ekle</button>
+          </div>
+        </div>
+      </ng-template>
+    </ng-container>
+  </swiper>
+</div>

@@ -1,0 +1,90 @@
+{
+  "title": "Çok Satanlar",
+  "config": {
+    "slidesPerView": 5,
+    "navigation": true
+  },
+  "productSwiper":[
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/penye-agiz-bezi-10-adet-28-x-28-cm_8681049216915_01.jpg",
+      "text": " baby me -  Penye Ağız Bezi 10 adet 28 x cm ",
+      "price": "139,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/k_8699465167537_01.jpg",
+      "text": " HelloBaby -  Beyaz Body Atlet ",
+      "price": "49,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/kisa-kol-beyaz-body_8682766439083_01.jpg",
+      "text": " HelloBaby -  Beyaz Body Kısa Kol ",
+      "price": "49,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/yenidogan-eldiven-2li_1990000075053_01.jpg",
+      "text": " HelloBaby -  Yenidoğan Eldiven 2li ",
+      "price": "39,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/k_1990000053187_01.jpg",
+      "text": " HelloBaby -  Beyaz Body Atlet 5'li ",
+      "price": "249,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/5li-kisa-kol-beyaz-body_1990000053193_01.jpg",
+      "text": " HelloBaby -  Beyaz Body Kısa Kol 5'li ",
+      "price": "249,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/empirme-desen-atlet-body-unisex-unisex-unisex_8682766456707_01.jpg",
+      "text": " HelloBaby -  Empirme Desen Atlet Body Unisex ",
+      "price": "39,99 TL",
+      "oldPrice": "79,99 TL",
+      "percent": "%50 ",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/yenidogan-organik-eldiven_8682766111569_01.jpg",
+      "text": " HelloBaby -  Yenidoğan Organik Eldiven ",
+      "price": "59,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/hellobaby-tekli-termal-uzun-kol-bebek-body_8682766313826_01.jpg",
+      "text": " HelloBaby -  Tekli Termal Uzun Kol Body Kız Bebek ",
+      "price": "49,99 TL",
+      "oldPrice": "99,99 TL",
+      "percent": "%50 ",
+      "promo": ""
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/b1_2558000127732_01.jpg",
+      "text": " HelloBaby -  Beyaz Body Uzun Kol ",
+      "price": "59,99 TL",
+      "oldPrice": "",
+      "percent": "",
+      "promo": ""
+    }
+  ]
+
+}

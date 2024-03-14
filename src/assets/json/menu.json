@@ -1,0 +1,214 @@
+[
+  {
+    "id": "1",
+    "name": "Kategoriler",
+    "children": [
+      {
+        "id": "1",
+        "name": "Giyim & Tekstil",
+        "icon": "clothes",
+        "children": [
+          {
+            "name": "Kategoriler",
+            "children": [
+              {
+                "name": "Bebek Giyim"
+              },
+              {
+                "name": "Bebek Ayakkabıları"
+              },
+              {
+                "name": "Bebek Çorapları"
+              },
+              {
+                "name": "Bebek Giyim Aksesuarları"
+              },
+              {
+                "name": "Bebek Body"
+              },
+              {
+                "name": "Yenidoğan Bebek Giyim"
+              },
+              {
+                "name": "Emzirme Giyim"
+              },
+              {
+                "name": "Hamile Giyim"
+              },
+              {
+                "name": "Bebek Çantaları"
+              },
+              {
+                "name": "Bebek İç Giyim"
+              },
+              {
+                "name": "Anne Bebek Bakım Çantası"
+              }
+            ]
+          },
+          {
+            "name": "Çok Popüler",
+            "children": [
+              {
+                "name": "Bebek Montları"
+              },
+              {
+                "name": "Bebek Uyku Takımı"
+              },
+              {
+                "name": "Bebek Sweatshirtleri"
+              },
+              {
+                "name": "Bebek Tulumları"
+              },
+              {
+                "name": "Bebek Eşofmanları"
+              },
+              {
+                "name": " Bebek Pijama Takımı"
+              },
+              {
+                "name": "Bebek Hırkaları"
+              },
+              {
+                "name": "Bebek Yelekleri"
+              },
+              {
+                "name": "Bebek Alt-Üst Takımları"
+              },
+              {
+                "name": "Bebek Patikleri"
+              }
+            ]
+          },
+          {
+            "name": "Yenidoğan",
+            "children": [
+              {
+                "name": "Yenidoğan Ağız & Ter Bezi"
+              },
+              {
+                "name": " Yenidoğan Bebek Giyim"
+              },
+              {
+                "name": "Yenidoğan Hastane Çıkışı"
+              },
+              {
+                "name": "Yeni Doğan Zıbın"
+              },
+              {
+                "name": "Annelere",
+                "font-weight": "400px"
+              },
+              {
+                "name": "Hamile Giyim"
+              },
+              {
+                "name": "Emzirme Giyim"
+              },
+              {
+                "name": "Hamile Kilodu"
+              },
+              {
+                "name": "Doğum Sonrası Korse"
+              },
+              {
+                "name": "Bebek Patikleri"
+              }
+            ]
+          },
+          {
+            "name": "Sizin için Seçtiklerimiz",
+            "children": [
+              {
+                "name": "Lisanslı Ürünler"
+              },
+              {
+                "name": "Günlük Ürünler"
+              },
+              {
+                "name": "Yenidoğan Hastane Çıkışı"
+              }
+              ]
+          },
+          {
+            "id": "1",
+            "name": "Image",
+            "image": "https://cdn05.e-bebek.com/media/c/hellobaby-logo.png"
+          },
+          {
+            "id": "1",
+            "name": "Image",
+            "image": "https://cdn05.e-bebek.com/media/c/bebbek-logo.jpg"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Bebek Odası",
+        "children": [
+          {
+            "name": "Kategoriler"
+          },
+          {
+            "name": "Çok Popüler"
+          },
+          {
+            "name": "Bunlara Da Bakın"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "name": "Banyo & Bakım"
+      },
+      {
+        "id": "1",
+        "name": "Bez & Mendil"
+      },
+      {
+        "id": "1",
+        "name": "Oyuncak & Kitap"
+      },
+      {
+        "id": "1",
+        "name": "Araç & Gereç"
+      },
+      {
+        "id": "1",
+        "name": "Beslenme"
+      },
+      {
+        "id": "1",
+        "name": "Emzirme"
+      },
+      {
+        "id": "1",
+        "name": "Güvenlik"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Keşfet"
+  },
+  {
+    "id": "3",
+    "name": "Hediye"
+  },
+  {
+    "id": "4",
+    "name": "İnternete Özel Ürünler",
+    "color": "blue"
+  },
+  {
+    "id": "5",
+    "name": "Kampanyalar",
+    "color": "orange"
+  },
+  {
+    "id": "5",
+    "name": "Outlet",
+    "color": "orange"
+  }
+]

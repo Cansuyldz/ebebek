@@ -1,0 +1,10 @@
+<div class="ebebek-stories" *ngIf="storyies$ | async as stories" style="display: flex">
+  <ng-container *ngFor="let story of stories">
+    <div class="story">
+      <div class="story-image">
+        <img src="{{story.image}}" alt="" width="92px" height="82px">
+      </div>
+      <div class="story-content">{{story.name}}</div>
+    </div>
+  </ng-container>
+</div>

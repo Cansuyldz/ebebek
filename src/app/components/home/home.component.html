@@ -1,0 +1,22 @@
+<app-main-swiper></app-main-swiper>
+<app-story></app-story>
+
+<ng-container *ngIf="pickForYouSwiper$ |async as swiper">
+  <app-product-swiper [swiper]="swiper"></app-product-swiper>
+</ng-container>
+
+
+<div class="logoEbebek">
+  <img src="https://cdn05.e-bebek.com/media/c/gozatmatiunutmayin-220124-d.jpg" alt="" width="1320px" height="330px">
+</div>
+
+
+<ng-container *ngIf="outlets$ |async as swiper">
+  <app-product-swiper [swiper]="swiper"></app-product-swiper>
+</ng-container>
+
+
+<ng-container *ngIf="shops$ |async as swiper">
+  <app-product-swiper [swiper]="swiper"></app-product-swiper>
+</ng-container>
+

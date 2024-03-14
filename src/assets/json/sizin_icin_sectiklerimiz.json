@@ -1,0 +1,85 @@
+{
+  "title": "Sizin İçin Seçtiklerimiz",
+  "config": {
+    "slidesPerView": 5,
+    "navigation": true
+  },
+  "productSwiper": [
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/korbell-bebek-bezi-cop-kovasi-siste_8809088141740_01.jpg",
+      "text": " Korbell -  Bebek Bezi Çöp Kovası Sistemi ",
+      "price": "699,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/canyon-travel-sistem-bebek-arabasi-v2_8680075433723_01.jpg",
+      "text": " baby plus -  Canyon Travel Sistem Bebek Arabası V2 ",
+      "price": "5.999,00 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/babygo-sallanann-esek_8681065089401_01.jpg",
+      "text": " Baby Toys -  Sallanan Eşek ",
+      "price": "1.299,00 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/baby-plus-naturel-sepet-besi_8681270260794_01.jpg",
+      "text": " baby plus -  Naturel Sepet Bebek Beşik ",
+      "price": "3.199,00 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/b_8681065094412_01.jpg",
+      "text": " baby plus -  Lounge Oyuncaklı Ana Kucağı ",
+      "price": "999,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/sevimli-ilk-arabam-bin-git_8695593793853_01.jpg",
+      "text": " Baby Toys -  Sevimli İlk Arabam Bin Git ",
+      "price": "349,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/pratik-cam-bebek-rende_8699203310331_01.jpg",
+      "text": " baby plus -  Pratik Cam Bebek Rende ",
+      "price": "59,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/audi-q7-akulu-araba-12-v-kirmizi_8680075432436_01.jpg",
+      "text": " Audi -  Q7 Akülü Araba 12 V Kırmızı ",
+      "price": "26.999,00 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/bebek-temizleme-pamugu-6x60-adet_8680075430234_01.jpg",
+      "text": " baby me -  Bebek Temizleme Pamuğu 6x60 adet ",
+      "price": "244,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/pizza-mama-sandalyesi_8682766489835_01.jpg",
+      "text": " baby plus -  Pizza Mama Sandalyesi ",
+      "price": "299,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/fisher-price-eglen-ve-ogren-ilk-bilgisayarim_194735067237_01.jpg",
+      "text": " Fisher-Price -  Eğlen ve Öğren İlk Bilgisayarım ",
+      "price": "899,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/nexus-tasinabilir-mesh-nebulizato_6938209606188_01.jpg",
+      "text": " Direct Nexus -  Taşınabilir Mesh Nebulizatör ",
+      "price": "999,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/top-havuzu-ve-aktivite-merkezi_8683036980144_01.jpg",
+      "text": " Molie -  Top Havuzu ve Aktivite Merkezi ",
+      "price": "599,99 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/dolu-daytona-uzaktan-kumandali-akulu-araba_8690089080974_01.jpg",
+      "text": " Dolu -  Daytona 12V Uzaktan Kumandalı Akülü Araba ",
+      "price": "5.999,00 TL"
+    },
+    {
+      "image": "https://cdn05.e-bebek.com/mnresize/1200/1200/media/p/bin-git-ilk-arabam_8690089086259_01.jpg",
+      "text": " Baby Toys -  Bin Git İlk Arabam ",
+      "price": "349,99 TL"
+    }
+  ]
+
+}

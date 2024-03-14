@@ -1,0 +1,224 @@
+{
+  "categories": [
+    {
+      "name": "Araç Gereç"
+    },
+    {
+      "name": "Kampanyalar"
+    },
+    {
+      "name": "Tekstil"
+    },
+    {
+      "name": "Çek Fırsatı!"
+    },
+    {
+      "name": "Öne Çıkanlar"
+    }
+  ],
+  "swipers": [
+    {
+      "id": "equipment",
+      "name": "Araç Gereç",
+      "background": "#0093da",
+      "config": {
+        "slidesPerView": 1,
+        "navigation": false
+      },
+      "swiperItems": [
+        {
+          "index": 0,
+          "img": "https://cdn05.e-bebek.com/media/c/mamas-papas080124-d.jpg"
+        },
+        {
+          "index": 1,
+          "img": "https://cdn05.e-bebek.com/media/c/romer-040124-d.jpg"
+        },
+        {
+          "index": 2,
+          "img": "https://cdn05.e-bebek.com/media/c/joie-0401-d.jpg"
+        },
+        {
+          "index": 3,
+          "img": "https://cdn05.e-bebek.com/media/c/bagi0801-d.jpg"
+        },
+        {
+          "index": 4,
+          "img": "https://cdn05.e-bebek.com/media/c/graco-010424-d.jpg"
+        },
+        {
+          "index": 5,
+          "img": "https://cdn05.e-bebek.com/media/c/pizza0901-d.jpg"
+        },
+        {
+          "index": 6,
+          "img": "https://cdn05.e-bebek.com/media/c/ebaby-040124-d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "check-opportunity",
+      "name": "Çek Fırsatı!",
+      "config": {
+        "slidesPerView": 1,
+        "navigation": false
+      },
+      "swiperItems": [
+        {
+          "index": 0,
+          "img": "https://cdn05.e-bebek.com/media/c/ocak-cek-kampanyasi-030124d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "campaing",
+      "name": "Kampanyalar",
+      "config": {
+        "slidesPerView": 1,
+        "navigation": false
+      },
+      "swiperItems": [
+        {
+          "index": 0,
+          "img": "https://cdn05.e-bebek.com/media/c/bandana-090124-d.jpg"
+        },
+        {
+          "index": 1,
+          "img": "https://cdn05.e-bebek.com/media/c/goon-bebek-bezi-03012024-d.jpg"
+        },
+        {
+          "index": 2,
+          "img": "https://cdn05.e-bebek.com/media/c/tommeetippee-030124d.jpg"
+        },
+        {
+          "index": 3,
+          "img": "https://cdn05.e-bebek.com/media/c/bebekesofman-030124d.jpg"
+        },
+        {
+          "index": 4,
+          "img": "https://cdn05.e-bebek.com/media/c/weebabyemzirme-030124d.jpg"
+        },
+        {
+          "index": 5,
+          "img": "https://cdn05.e-bebek.com/media/c/icgiyim-040124-d.jpg"
+        },
+        {
+          "index": 6,
+          "img": "https://cdn05.e-bebek.com/media/c/mycey-040124-d.jpg"
+        },
+        {
+          "index": 7,
+          "img": "https://cdn05.e-bebek.com/media/c/mycey-emzirme-urunleri-040124d.jpg"
+        },
+        {
+          "index": 8,
+          "img": "https://cdn05.e-bebek.com/media/c/kitap-08012024-d.jpg"
+        },
+        {
+          "index": 9,
+          "img": "https://cdn05.e-bebek.com/media/c/raid-2512d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "textile",
+      "name": "Tekstil",
+      "config": {
+        "slidesPerView": 1,
+        "navigation": false
+      },
+      "swiperItems": [
+        {
+          "index": 0,
+          "img": "https://cdn05.e-bebek.com/media/c/bebek-modasinda-14999-ve-alti-gulumseten-fisatlar-03012024-d.jpg"
+        },
+        {
+          "index": 1,
+          "img": "https://cdn05.e-bebek.com/media/c/babymom-050124-d.jpg"
+        },
+        {
+          "index": 2,
+          "img": "https://cdn05.e-bebek.com/media/c/bebektayt091023d.jpg"
+        },
+        {
+          "index": 3,
+          "img": "https://cdn05.e-bebek.com/media/c/baby-mom-everyday-bebek-bakim-sirt-cantasi-ile-tum-ihtiyaclariniz-hep-yaninizda-27122023d.jpg"
+        },
+        {
+          "index": 4,
+          "img": "https://cdn05.e-bebek.com/media/c/bebek-aksesuarlarinda-super-fiyatlar-291223-d.jpg"
+        },
+        {
+          "index": 5,
+          "img": "https://cdn05.e-bebek.com/media/c/tekstil-urunlerinde-kacirilmayacak-firsatlar-2912-d.jpg"
+        },
+        {
+          "index": 6,
+          "img": "https://cdn05.e-bebek.com/media/c/hellobaby-basic-kulakli-kapusonlu-montlar-1009-d.jpg"
+        },
+        {
+          "index": 7,
+          "img": "https://cdn05.e-bebek.com/media/c/lisansrubud.jpg"
+        },
+        {
+          "index": 8,
+          "img": "https://cdn05.e-bebek.com/media/c/magazada-cok-satan-en-stil-urunler-1407-d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "highlights",
+      "name": "Öne Çıkanlar",
+      "config": {
+        "slidesPerView": 1,
+        "navigation": false
+      },
+      "swiperItems": [
+        {
+          "index": 0,
+          "img": "https://cdn05.e-bebek.com/media/c/seyahat-yastigi-d.jpg"
+        },
+        {
+          "index": 1,
+          "img": "https://cdn05.e-bebek.com/media/c/dmaga-18088.jpg"
+        },
+        {
+          "index": 2,
+          "img": "https://cdn05.e-bebek.com/media/c/50tlbeslenmed.jpg"
+        },
+        {
+          "index": 3,
+          "img": "https://cdn05.e-bebek.com/media/c/cok-satan-oyuncaklard.jpg"
+        },
+        {
+          "index": 4,
+          "img": "https://cdn05.e-bebek.com/media/c/gozatmayi1707d.jpg"
+        },
+        {
+          "index": 5,
+          "img": "https://cdn05.e-bebek.com/media/c/kesfet-dd.jpg"
+        },
+        {
+          "index": 6,
+          "img": "https://cdn05.e-bebek.com/media/c/oyuncakbebeklerd.jpg"
+        },
+        {
+          "index": 7,
+          "img": "https://cdn05.e-bebek.com/media/c/abbelere-ozael-25d.jpg"
+        },
+        {
+          "index": 8,
+          "img": "https://cdn05.e-bebek.com/media/c/trendleri-kesfetd.jpg"
+        },
+        {
+          "index": 9,
+          "img": "https://cdn05.e-bebek.com/media/c/acil-ihtiyac-c11082d.jpg"
+        },
+        {
+          "index": 10,
+          "img": "https://cdn05.e-bebek.com/media/c/babywalk-dogal-yuruyusu-destekleyen-bebek-ayakkabisi-270223-d.jpg"
+        }
+      ]
+    }
+  ]
+}
